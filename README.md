@@ -2,5 +2,5 @@
 Wallpapers I Found
 
 My fav are these
-![](./walls/000000.png)
+![](./walls/*)
 ![](./walls/000001.png)
